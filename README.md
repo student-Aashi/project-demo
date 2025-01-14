@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git Repository
 <br>
-Author-Ranbir
+Author-Ranbir Singh
